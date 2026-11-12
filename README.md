@@ -139,9 +139,9 @@ button:hover {
 ```
 
 ## OUTPUT
-<img width="1125" height="616" alt="image" src="https://github.com/user-attachments/assets/79ba0ae6-0fe5-4635-b0ad-697725f0b75f" />
-<img width="1125" height="618" alt="image" src="https://github.com/user-attachments/assets/1704787a-4dba-405a-a6ba-7ca54aa582ca" />
-<img width="575" height="233" alt="image" src="https://github.com/user-attachments/assets/af8096f0-274f-4c15-b427-9def878d7b3d" />
+<img width="916" height="310" alt="Screenshot 2026-11-13 005930" src="https://github.com/user-attachments/assets/44b92120-b5b7-4473-980d-9238db67b905" />
+<img width="304" height="95" alt="Screenshot 2026-11-13 005939" src="https://github.com/user-attachments/assets/7d07cdd5-8ddf-4817-9dc9-d7ca7c9d75f5" />
+
 
 
 ## RESULT
